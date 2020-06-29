@@ -3,3 +3,5 @@ const add = (a: number, b: number): number => {
 };
 // this is the changes added by Gowtham
 console.log(add(7, 8));
+//commited in git directly
+
